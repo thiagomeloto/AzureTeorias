@@ -2,22 +2,21 @@
 
 ## Tipos de Nuvem e Comparações
 
-## Nuvem Privada: 
+### 1) Nuvem Privada: 
 * Acesso somente de funcionários.
 * As organizações tem controle total sobre recursos e segurança.
 * As organizações são responsáveis pela manutenção do hardware.
 
-## Nuvel Pública:
+### 2) Nuvel Pública:
 
 * Acesso via rede segura a funcionários e clientes.
 * As organizações pagam somente pelo que usam.
 * Somente depois de usar que será pago.
 
-## Nuvem Híbrida:
+### 3) Nuvem Híbrida:
 
 * As organizações determinam onde executar seus aplicativos.
 * As organizações controlam a segurança.
-
 
 ## Comparações entre CapEx e OpEx
 
