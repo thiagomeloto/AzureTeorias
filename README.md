@@ -20,12 +20,12 @@
 
 ## Comparações entre CapEx e OpEx
 
-## CapEx:
+### B) CapEx:
 * Despesas de capital.
 * Gasto inicial com estrutura física.
 * Despesas que se reduzem com o tempo.
 
-## OpEx: 
+### A) OpEx: 
 * Despesas Operacionais.
 * Gastar com serviços conforme necessário.
 * Cobrado imediatamente.
