@@ -61,3 +61,17 @@
 ### H) Gerenciabilidade:
 * Possibiblidades de gerenciar recursos.
 * Exemplo: configurar para escalar recursos conforme a necessidade. ARM Template (Azure) e Cloud Formation (AWS).
+
+## Tipos de serviço em nuvem
+
+### 1) IaaS: 
+* Infra como serviço.
+* Exemplo: servidores, armazenamento, firewall e datacenter.
+
+### 2) PaaS: 
+* Plataforma como serviço.
+* Exemplo: Sistema Operacional, ferramentas para desenvolvedores, gerenciador de banco de dados.
+
+### 3) SaaS:
+* Software como serviço.
+* Exemplo: Apps, Teams, Outlook, (Modelo de assinatura).
